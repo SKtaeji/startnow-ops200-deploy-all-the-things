@@ -1,7 +1,7 @@
 {
-  "startnow-my-hackathon": "https://git.heroku.com/sk-startnow-my-hackathon.git",
-  "startnow-changecalc": "https://git.heroku.com/sk-startnow-changecalc.git",
-  "startnow-mortgagecalc": "https://git.heroku.com/sk-startnow-mortgagecalc.git",
-  "startnow-sdtopspots": "https://git.heroku.com/sk-startnow-sdtopspots.git",
-  "startnow-vstda": "https://git.heroku.com/sk-startnow-vstda.git"
+  "startnow-my-hackathon": "https://sk-startnow-my-hackathon.herokuapp.com/",
+  "startnow-changecalc": "https://sk-startnow-changecalc.herokuapp.com/",
+  "startnow-mortgagecalc": "https://sk-startnow-mortgagecalc.herokuapp.com/",
+  "startnow-sdtopspots": "https://sk-startnow-sdtopspots.herokuapp.com/",
+  "startnow-vstda": "https://sk-startnow-vstda.herokuapp.com/"
 }
