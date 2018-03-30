@@ -1,7 +1,7 @@
 {
-  "first_app": "",
-  "change_calculator": "",
-  "mortgage_calculator": "",
-  "top_spots": "",
-  "vstda": ""
+  "startnow-my-hackathon": "https://git.heroku.com/sk-startnow-my-hackathon.git",
+  "startnow-changecalc": "https://git.heroku.com/sk-startnow-changecalc.git",
+  "startnow-mortgagecalc": "https://git.heroku.com/sk-startnow-mortgagecalc.git",
+  "startnow-sdtopspots": "https://git.heroku.com/sk-startnow-sdtopspots.git",
+  "startnow-vstda": "https://git.heroku.com/sk-startnow-vstda.git"
 }
